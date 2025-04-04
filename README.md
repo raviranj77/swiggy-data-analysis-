@@ -62,19 +62,6 @@ The dataset contains key information about restaurants listed on Swiggy, includi
 - 🧮 **Heatmap:** Correlation between price, delivery, and ratings
 - 📊 **Vertical & Horizontal Bar Charts:** For rankings and comparisons
 
----
-
-## 📌 Sample Visuals
-
-<img src="charts/price_distribution.png" width="400">
-<img src="charts/best_rated.png" width="400">
-<img src="charts/pie_food_type.png" width="300">
-<img src="charts/heatmap_corr.png" width="400">
-
-> *Note: Save your chart images to a `charts/` folder to display like above.*
-
----
-
 ## 💡 Key Insights
 
 - Most restaurants price their dishes under ₹300
